@@ -1,0 +1,2 @@
+# devfclass
+works on classes
